@@ -9,8 +9,7 @@
         "declarationMap": true,
         "moduleResolution": "node",
         "importHelpers": true,
-        "target": "es2021",
-        "types": ["node"]
+        "target": "es2021"
     },
     "include": ["src/**/*.js", "src/**/*.ts", "index.ts"],
     "exclude": ["**/*.spec.ts", "**/*.test.ts", "node_modules"]
